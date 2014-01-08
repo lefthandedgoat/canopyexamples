@@ -1,0 +1,6 @@
+*.pdb
+*.exe
+chromedriver.log
+canopyexamples/bin/**/*
+canopyexamples/obj/**/*
+*.suo
