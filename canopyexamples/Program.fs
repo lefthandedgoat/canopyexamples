@@ -1,7 +1,8 @@
 ﻿open canopy
 open runner
 
-start chrome
+//start chrome
+start firefox
 
 telerikWebforms.all()
 
