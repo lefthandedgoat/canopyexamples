@@ -112,7 +112,6 @@ let all _ =
     "filtering" &&& fun _ ->
         filterModelText << "Civ"
         click filterModel
-        click "Contains"        
-        click filterModel
+        click "Contains"
 
         count cars 3

@@ -1,10 +1,11 @@
 ﻿open canopy
 open runner
 
-//start chrome
-start firefox
+start chrome
+//start firefox
 
-telerikWebforms.all()
+//telerikWebforms.all()
+kendo.all()
 
 run()
 
